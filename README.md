@@ -1,1 +1,1 @@
-# mymavenproject
+# HelloWorldMaven
